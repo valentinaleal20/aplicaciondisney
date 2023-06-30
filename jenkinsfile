@@ -1,3 +1,5 @@
-@Library('libreriadevops') _
+@Library('libreriasdevops') _
 
-librerias()
+ 
+
+librerias(scmUrl: 'https://github.com/valentinaleal20/aplicaciondisney.git')
